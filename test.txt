@@ -1,2 +1,4 @@
 hello git!
 edit test
+
+このテキストはtestbranchのみに反映させたい
